@@ -2,7 +2,7 @@
 
 This was a competition hosted by Zindi in partnership with Uber and therefore the data is provided by them. Unfortunately, the rules state that "data used in this competition is the sole property of Zindi and the competition host. You may not transmit, duplicate, publish, redistribute or otherwise provide or make available any competition data to any party not participating in the Competition (this includes uploading the data to any public site such as Kaggle or GitHub)"[sic]
 For some reason, the heatmap showing accident prone areas is not being displayed, so here's a screenshot: 
-<img width="1280" alt="Screenshot 2021-01-11 at 23 14 02" src="https://user-images.githubusercontent.com/56550310/104233515-1114bf80-5463-11eb-9483-262f24d65326.png">
+<img width="1210" alt="Screenshot 2021-01-11 at 23 14 02" src="https://user-images.githubusercontent.com/56550310/104233793-897b8080-5463-11eb-859d-92ca04d25b67.png">
 
 
 # Goal
