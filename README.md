@@ -4,6 +4,8 @@ This was a competition hosted by Zindi in partnership with Uber and therefore th
 For some reason, the heatmap showing accident prone areas is not being displayed, so here's a screenshot: 
 <img width="1210" alt="Screenshot 2021-01-11 at 23 14 02" src="https://user-images.githubusercontent.com/56550310/104233793-897b8080-5463-11eb-859d-92ca04d25b67.png">
 
+note: I am yet to work on the scoring
+
 
 # Goal
 
